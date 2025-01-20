@@ -15,7 +15,7 @@ def clean_data(data):
 
 if __name__ == "__main__":
     # Replace with your data file path
-    data = load_data("data/population_data.csv")
+    data = load_data("data/chennai_population.csv")
     clean_data = clean_data(data)
     clean_data.to_csv("data/cleaned_population_data.csv", index=False)
     print("Data preprocessing complete!")
