@@ -1,4 +1,4 @@
-#Introduction
+#Introduction#
 
 This project leverages AI and data analytics to analyze population density, demographics, and geographic data to suggest infrastructure requirements, essential facilities, and vegetation possibilities. It aims to provide actionable insights for urban planning and sustainable development.
 
