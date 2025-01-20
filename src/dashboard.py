@@ -111,4 +111,5 @@ def update_feature_distribution(selected_feature):
 
 # Run the app
 if __name__ == "__main__":
-    app.run_server(debug=True)
+    # Use debug=False to avoid reloader issues, or threaded=True if needed
+    app.run_server(debug=False)
